@@ -1,0 +1,17 @@
+body{
+    background-color: wheat;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2, h3{
+    text-align: center;
+}
+p, ul, ol {
+    text-align: center;
+}
+li {
+    list-style-position: inside;
+}
